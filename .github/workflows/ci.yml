@@ -2,10 +2,10 @@ name: Run Python Tests
 on:
   push:
     branches:
-      - main
+      - otra_rama
   pull_request:
     branches:
-      - main
+      - otra_rama
 
 jobs:
   build:
