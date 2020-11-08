@@ -1,5 +1,5 @@
 from svd import sign
-from svd import ortogonalidad
+#from svd import ortogonalidad
 from random import random
 
 def test_sign():
